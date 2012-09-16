@@ -1,13 +1,8 @@
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o: \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Main.cpp \
- C:/android-ndk-r8/sources/android/native_app_glue/android_native_app_glue.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/poll.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/poll.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/poll.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/pthread.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/log.o: \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.cpp \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/log.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdarg.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/features.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
@@ -19,12 +14,26 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/pthread.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/time.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/time.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/time.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/types.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stddef.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdlib.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/stdlib.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/string.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/malloc.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/alloca.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/strings.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/types.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/stdint.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/_types.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/_types.h \
@@ -36,11 +45,10 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/types.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/kernel.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/time.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/siginfo.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/signal.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/signal.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/memory.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/math.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/math.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/limits.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/limits.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/limits.h \
@@ -48,48 +56,6 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/internal_types.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/limits.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/syslimits.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/string.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/malloc.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/signal.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sched.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/configuration.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/asset_manager.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/looper.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/native_activity.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/jni.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdarg.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/input.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/keycodes.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/native_window.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/rect.h \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/egl.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/eglplatform.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/log.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdlib.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/stdlib.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/alloca.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/strings.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/memory.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/math.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/math.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/using/cstring \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
@@ -117,6 +83,12 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/wchar.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/time.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/time.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/time.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/time.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/siginfo.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
@@ -137,6 +109,14 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_exception.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_locale.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/pthread.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/pthread.h \
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/signal.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/signal.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/signal.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sched.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.c \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
@@ -160,26 +140,13 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_istream.c \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_io.c \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Game.hpp \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ActivityHandler.hpp \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/EventHandler.hpp
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_io.c
 
-C:/android-ndk-r8/sources/android/native_app_glue/android_native_app_glue.h:
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/poll.h:
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/log.h:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/poll.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/poll.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/pthread.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdarg.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
 
@@ -203,17 +170,45 @@ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/pthread.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
 
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/time.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/time.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/time.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/types.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stddef.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdlib.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/stdlib.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/string.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/malloc.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/alloca.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/strings.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/types.h:
 
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/stdint.h:
 
@@ -237,15 +232,13 @@ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/kernel.h:
 
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/time.h:
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/memory.h:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/siginfo.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
 
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h:
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/math.h:
 
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/signal.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/signal.h:
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/math.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/limits.h:
 
@@ -260,90 +253,6 @@ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/internal_typ
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/machine/limits.h:
 
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/syslimits.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/string.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/malloc.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/signal.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sched.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/configuration.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/asset_manager.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/looper.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/native_activity.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/jni.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdarg.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/input.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/keycodes.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/native_window.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/rect.h:
-
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/egl.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/eglplatform.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h:
-
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/log.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stdlib.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/stdlib.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/alloca.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/strings.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/memory.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
-
-C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/math.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/math.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
 
@@ -399,6 +308,18 @@ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
 
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/wchar.h:
 
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/time.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/time.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/time.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/linux/time.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/siginfo.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h:
+
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h:
@@ -438,6 +359,22 @@ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_exception.h:
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_locale.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/pthread.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/pthread.h:
+
+C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/signal.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/../include/signal.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/signal.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sched.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_threads.c:
 
@@ -486,9 +423,3 @@ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.h:
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_io.c:
-
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Game.hpp:
-
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ActivityHandler.hpp:
-
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/EventHandler.hpp:

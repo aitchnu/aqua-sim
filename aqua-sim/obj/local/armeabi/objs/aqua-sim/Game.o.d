@@ -1,5 +1,6 @@
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o: \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Main.cpp \
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Game.o: \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Game.cpp \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Game.hpp \
  C:/android-ndk-r8/sources/android/native_app_glue/android_native_app_glue.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/poll.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
@@ -67,13 +68,7 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/keycodes.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/native_window.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/rect.h \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/egl.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/eglplatform.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h \
- C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ActivityHandler.hpp \
  C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/log.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string \
@@ -161,9 +156,15 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Main.o:
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_io.c \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Game.hpp \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ActivityHandler.hpp \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/EventHandler.hpp
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/egl.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/eglplatform.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h \
+ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h
+
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Game.hpp:
 
 C:/android-ndk-r8/sources/android/native_app_glue/android_native_app_glue.h:
 
@@ -299,19 +300,7 @@ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/native_windo
 
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/rect.h:
 
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/egl.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/eglplatform.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h:
-
-C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h:
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ActivityHandler.hpp:
 
 C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp:
 
@@ -487,8 +476,16 @@ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_io.c:
 
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/Game.hpp:
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp:
 
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ActivityHandler.hpp:
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/egl.h:
 
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/EventHandler.hpp:
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/EGL/eglplatform.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h:
+
+C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h:
