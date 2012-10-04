@@ -39,8 +39,8 @@ void EventHandler::run(ActivityHandler* pActivityHandler)
 		if ((mEnabled) && (!mQuit))
 		{
 //			if (mActivityHandler->onStep() != STATUS_OK) {
-				mQuit = true;
-				ANativeActivity_finish(mApplication->activity);
+//				mQuit = true;
+//				ANativeActivity_finish(mApplication->activity);
 //			}
 		}
 	}

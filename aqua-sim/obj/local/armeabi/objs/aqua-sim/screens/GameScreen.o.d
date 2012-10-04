@@ -1,6 +1,7 @@
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/GraphicsHandler.o: \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.cpp \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp \
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/screens/GameScreen.o: \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/GameScreen.cpp \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/GameScreen.hpp \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/../GraphicsHandler.hpp \
  C:/android-ndk-r8/sources/android/native_app_glue/android_native_app_glue.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/poll.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
@@ -74,7 +75,7 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Graphic
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/../log.hpp \
  C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/log.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/string \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
@@ -161,14 +162,17 @@ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//obj/local/armeabi/objs/aqua-sim/Graphic
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_io.c \
- C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ResourceHandler.hpp \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/../ResourceHandler.hpp \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/fstream \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_ioserr.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_fstream.h \
  C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_codecvt.h \
- C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_fstream.c
+ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_fstream.c \
+ C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/Screen.hpp
 
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/GraphicsHandler.hpp:
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/GameScreen.hpp:
+
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/../GraphicsHandler.hpp:
 
 C:/android-ndk-r8/sources/android/native_app_glue/android_native_app_glue.h:
 
@@ -316,7 +320,7 @@ C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h:
 
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h:
 
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/log.hpp:
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/../log.hpp:
 
 C:/android-ndk-r8/platforms/android-14/arch-arm/usr/include/android/log.h:
 
@@ -490,7 +494,7 @@ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_string_io.c:
 
-C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/ResourceHandler.hpp:
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/../ResourceHandler.hpp:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/fstream:
 
@@ -501,3 +505,5 @@ C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_fstream.h:
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_codecvt.h:
 
 C:/android-ndk-r8/sources/cxx-stl/stlport/stlport/stl/_fstream.c:
+
+C:/Users/aitch_nu/git/aqua-sim/aqua-sim//jni/screens/Screen.hpp:

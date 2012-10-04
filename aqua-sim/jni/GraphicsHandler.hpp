@@ -6,13 +6,15 @@
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include"log.hpp"
+#include <android/log.h>
+#include"ResourceHandler.hpp"
 
 using namespace std;
 
 class GraphicsHandler
 {
 	public:
-		GraphicsHandler(android_app* pApplication);
+		GraphicsHandler(android_app* pApplication,ResourceHandler* pResourceManager);
 		~GraphicsHandler();
 
 		const int32_t& getHeight();
@@ -21,7 +23,7 @@ class GraphicsHandler
 		void start();
 		void stop();
 		void update();
-
+		GLuint loadShader(char *path,GLenum type);
 //		GraphicsTexture* registerTexture(const char* pPath);
 //		GraphicsSprite* registerSprite(GraphicsTexture* pTexture,
 //				int32_t pHeight, int32_t pWidth, Location* pLocation);
@@ -36,7 +38,7 @@ class GraphicsHandler
 	private:
 		android_app* mApplication;
 //		TimeService* mTimeService;
-
+		ResourceHandler *mResourceManager;
 		// Display properties.
 		int32_t mWidth, mHeight;
 		EGLDisplay mDisplay;
